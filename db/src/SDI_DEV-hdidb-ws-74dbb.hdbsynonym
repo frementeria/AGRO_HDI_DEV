@@ -1,0 +1,8 @@
+{
+  "V_TNROT": {
+    "target": {
+      "object": "V_TNROT",
+      "schema": "SDI_DEV_SCHEMA"
+    }
+  }
+}

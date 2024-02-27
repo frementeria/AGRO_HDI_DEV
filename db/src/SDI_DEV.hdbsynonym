@@ -1,0 +1,20 @@
+{
+    "SDI_DEV.db::V_NRIV": {
+    "target": {
+      "object": "NRIV",
+      "schema": "SDI_DEV_SCHEMA"
+    }
+  },
+    "SDI_DEV.db::V_ZBC_NRIV": {
+    "target": {
+      "object": "ZBC_NRIV",
+      "schema": "SDI_DEV_SCHEMA"
+    }
+  },
+    "SDI_DEV.db::V_ZBC_NRIV_ADM": {
+      "target": {
+        "object": "ZBC_NRIV_ADM",
+        "schema": "SDI_DEV_SCHEMA"
+    }
+  }
+}
